@@ -1,0 +1,16 @@
+﻿node_modules/
+electron-temp/
+dist/
+build/
+release/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.idea/
